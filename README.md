@@ -36,31 +36,31 @@ If you discover a **problem** or an **error**, don't hesitate to **create an iss
 
 | Category                                | Percentage | Numbers of tests |  Crash   |
 |-----------------------------------------|:----------:|:----------------:|:--------:|
-| Algorithm app. - Generating column      |    100%    |       8/8        |    No    |
-| Algorithm app. - Generating edges       |    100%    |       4/4        |    No    |
-| Algorithm app. - Generating line        |    100%    |       7/7        |    No    |
+| Algorithm app. - Generating column      |    100%    |       3/3        |    No    |
+| Algorithm app. - Generating edges       |    100%    |       2/2        |    No    |
+| Algorithm app. - Generating line        |    100%    |       3/3        |    No    |
 | Algorithm app. - Generating square      |    100%    |       3/3        |    No    |
-| Algorithm app. - Opening column         |    100%    |       7/7        |    No    |
-| Algorithm app. - Opening edges          |    100%    |       7/7        |    No    |
-| Algorithm app. - Opening line           |    100%    |       7/7        |    No    |
-| Algorithm app. - Opening rectangle      |    100%    |       7/7        |    No    |
-| Basics                                  |    100%    |       7/7        |    No    |
-| Data structure - Generating             |    100%    |       7/7        |    No    |
-| Data structure - Opening                |    100%    |       7/7        |    No    |
-| Optimization - Generating 100 to 500    |    100%    |       7/7        |    No    |
-| Optimization - Generating 1000 to 2000  |    100%    |       7/7        |    No    |
-| Optimization - Generating 5000 to 10000 |    100%    |       7/7        |    No    |
-| Optimization - Opening 100 to 500       |    100%    |       7/7        |    No    |
-| Optimization - Opening 1000 to 2000     |    100%    |       7/7        |    No    |
-| Optimization - Opening 5000 to 10000    |    100%    |       7/7        |    No    |
-| Parsing - Opening                       |    100%    |       7/7        |    No    |
-| Robustness - Generating empty map       |    100%    |       7/7        |    No    |
-| Robustness - Generating filled map      |    100%    |       7/7        |    No    |
-| Robustness - Generating valid board     |    100%    |       7/7        |    No    |
-| Robustness - Opening empty map          |    100%    |       7/7        |    No    |
-| Robustness - Opening filled map         |    100%    |       7/7        |    No    |
-| Robustness - Opening valid file         |    100%    |       7/7        |    No    |
-| **Results**                             |  **100%**  |    **29/29**     |  **No**  |
+| Algorithm app. - Opening column         |    100%    |       3/3        |    No    |
+| Algorithm app. - Opening edges          |    100%    |       2/2        |    No    |
+| Algorithm app. - Opening line           |    100%    |       3/3        |    No    |
+| Algorithm app. - Opening rectangle      |    100%    |       3/3        |    No    |
+| Basics                                  |    100%    |       6/6        |    No    |
+| Data structure - Generating             |    100%    |       3/3        |    No    |
+| Data structure - Opening                |    100%    |       3/3        |    No    |
+| Optimization - Generating 100 to 500    |    100%    |       4/4        |    No    |
+| Optimization - Generating 1000 to 2000  |    100%    |       2/2        |    No    |
+| Optimization - Generating 5000 to 10000 |    100%    |       2/2        |    No    |
+| Optimization - Opening 100 to 500       |    100%    |       4/4        |    No    |
+| Optimization - Opening 1000 to 2000     |    100%    |       2/2        |    No    |
+| Optimization - Opening 5000 to 10000    |    100%    |       2/2        |    No    |
+| Parsing - Opening                       |    100%    |       3/3        |    No    |
+| Robustness - Generating empty map       |    100%    |       4/4        |    No    |
+| Robustness - Generating filled map      |    100%    |       2/2        |    No    |
+| Robustness - Generating valid board     |    100%    |       5/5        |    No    |
+| Robustness - Opening empty map          |    100%    |       6/6        |    No    |
+| Robustness - Opening filled map         |    100%    |       6/6        |    No    |
+| Robustness - Opening valid file         |    100%    |       5/5        |    No    |
+| **Results**                             |  **100%**  |    **81/81**     |  **No**  |
 
 
 ### Tests and code coverage
